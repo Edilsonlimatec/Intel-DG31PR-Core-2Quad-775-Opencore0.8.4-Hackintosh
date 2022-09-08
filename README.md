@@ -1,9 +1,9 @@
-# Intel-DG31PR--2Quad-Q8400-Opencore0.8.4-Hackintosh
-macOS Big Sur em 775 2 Quad Q8400 # Penryn
+Intel-DG31PR-2Quad-Q8400-Opencore0.8.4-Hackintosh
+macOS Big Sur em 775 2 Quad Q8400 Penryn
 
 
 
-# Plataforma: Desktop | Yonah, Conroe and Penryn
+Plataforma: Desktop | Yonah, Conroe and Penryn
 Placa Mãe: Intel DG31PR - Soquete: LGA775
 Processador: Intel Core 2 Quad Q8400 @ 2.66GHz
 Vídeo: Radeon R7 265 
@@ -16,4 +16,4 @@ Opencore: 0.8.4  Booter Legacy
 
 
 
-#  https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
