@@ -1,6 +1,6 @@
-# 2 Quad Q8400 Opencore:0.8.4 Hackintosh
+# Core 2 Quad Q8400 Opencore:0.8.4 Hackintosh
 
-             macOS Big Sur 
+             macOS Big Sur 11.6.8
 
 
 
