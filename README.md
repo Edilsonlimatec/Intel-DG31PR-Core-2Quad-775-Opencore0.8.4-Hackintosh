@@ -16,13 +16,4 @@ Opencore: 0.8.4  Boot Legacy Sem UEFI.
 
 
 
-### Créditos:
 
-Obrigado pela [Apple](https://www.apple.com/ "Apple") pelo MacOs<br/>
-Obrigado pelo [Acidantera](https://github.com/acidanthera "Acidantera") pelo OpenCore<br/>
-Obrigado pela [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") pelo guia<br/>
-Obrigado pela [Mieze](https://github.com/Mieze "Mieze") por fornecer o driver RTL8111<br/>
-Obrigado pelo [Gabriel Luchina](https://github.com/luchina-gabriel "Gabriel Luchina") por mostra conhecimento<br/>
-Obrigado pelo [Sanjay Ravindran](https://github.com/SanjayRavindran "Sanjay Ravindran") por mostra conhecimento<br/>
-
-https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
