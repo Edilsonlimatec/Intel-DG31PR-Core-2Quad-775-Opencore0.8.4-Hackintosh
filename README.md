@@ -10,7 +10,7 @@ Processador: Intel Core 2 Quad Q8400 @ 2.66GHz
 Vídeo: Radeon R7 265 
 Áudio: Realtek AL888
 Wi-fi: FV-A436CD
-SMBIOS: MacPro6,1 - Editar 
+SMBIOS: MacPro6,1 - `Editar`
 macOS: macOS Big Sur Version 11.6.8 (Build 20G730) 
 Opencore: 0.8.4  Boot Legacy Sem UEFI. 
 
