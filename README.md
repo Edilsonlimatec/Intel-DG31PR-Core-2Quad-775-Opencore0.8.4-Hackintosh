@@ -16,4 +16,8 @@ Opencore: 0.8.4  Boot Legacy Sem UEFI.
 
 
 
-
+ Creditos a equipe da Acidanthera e Dortania.
+ 
+ https://github.com/acidanthera.html
+ 
+ https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
